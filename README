@@ -1,0 +1,18 @@
+                                                          README
+FILES FOR THE FINAL PROJECT:
+1. filteredlwkallsamples_fixed: THE PS2_IBD.LWK.VCF.GZ FILE WHERE SNPS THAT HAVE MAF < 0.05 AND HWE < 0.001 ARE REMOVED (INPUT 
+                                FILE) 
+                                
+2. Final_Project-USEFORPROJECT_filterproperly+bounded: CODE FOR OUR IMPLEMENTATION OF PLINK'S METHOD OF MOMENTS
+
+3. maf+hwe_lwk.ibd.genome: PLINK COMMAND WITH GENOME OPTION ENABLED (BASELINE) RESULTS OUTPUT FILE WHEN THE INPUT FILE IS THE  
+                           PS2_IBD.LWK.VCF.GZ FILE WHERE SNPS THAT HAVE MAF < 0.05 AND HWE < 0.001 ARE REMOVED
+                           
+4. Plotting_Results: CODE USED TO CREATE THE %IBD=0 VS %IBD=1 PLOT TO COMPARE THE BASELINE RESULTS WITH OUR IMPLEMENTATION OF 
+                     PLINK'S METHOD OF MOMENTS RESULTS
+                     
+5. FINAL_RESULTS_FILTERED_AND_BOUNDED_FIXEDFORPRESENTATION: OUR IMPLEMENTATION OF PLINK'S METHOD OF MOMENTS RESULTS OUTPUT FILE 
+                                                            WHEN THE INPUT FILE IS THE PS2_IBD.LWK.VCF.GZ FILE WHERE SNPS THAT 
+                                                            HAVE MAF < 0.05 AND HWE < 0.001 ARE REMOVED
+                                                            
+6. README: CURRENT FILE THAT BREIFLY DESCRIBES THE FILES INVOLVED IN THE FINAL PROJECT 
