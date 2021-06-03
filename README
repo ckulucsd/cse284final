@@ -1,7 +1,7 @@
                                                           README
 FILES FOR THE FINAL PROJECT:
 1. filteredlwkallsamples_fixed: THE PS2_IBD.LWK.VCF.GZ FILE WHERE SNPS THAT HAVE MAF < 0.05 AND HWE < 0.001 ARE REMOVED (INPUT 
-                                FILE) 
+                                FILE). THIS FILE UPLOADED ON THIS GITHUB IS IN A PDF FORMAT DUE TO GITHUB UPLOAD SIZE LIMITATIONS.
                                 
 2. Final_Project-USEFORPROJECT_filterproperly+bounded: CODE FOR OUR IMPLEMENTATION OF PLINK'S METHOD OF MOMENTS
 
